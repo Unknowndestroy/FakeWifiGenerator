@@ -1,3 +1,3 @@
 # FakeWifiGenerator
 🥵In test progress🥵
-Btw idk so much shell so much so this can made late
+Sorry, it can take very long because i am using ethernet, sorry...
